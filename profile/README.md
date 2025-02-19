@@ -12,15 +12,6 @@ Nossa equipe está trabalhando lado a lado com os desenvolvedores da Qbox, que s
 
 Acreditamos que a colaboração é a chave para o sucesso deste projeto. Se você está interessado em contribuir, seja com código, ideias ou melhorias, junte-se ao nosso **Discord** ou leia a documentação oficial. Estamos ansiosos para ver sua participação!
 
-## Acesse a Documentação Oficial
-
-- [Documentação Oficial do Qbox](link_para_documentacao)
-  
-## Conecte-se Conosco
-
-- **Discord:** [Junte-se ao nosso servidor Discord]([link_do_discord](https://discord.gg/YKervKhD))
----
-
 ## Sobre o Projeto Qbox (PT-BR)
 
 O **Qbox** é um core avançado, frequentemente referido como uma framework, focado em entregar recursos de alta qualidade e padrões da indústria. A otimização e segurança do código são nossas maiores prioridades. Nosso foco está em recursos ideais para **RolePlay**, especialmente na plataforma **FiveM**, mas também aplicáveis a outros usos além do RolePlay.
