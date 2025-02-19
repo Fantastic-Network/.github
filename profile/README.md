@@ -1,7 +1,3 @@
-Aqui está uma apresentação para o seu GitHub com o nome "Fantastic" que segue o estilo que você mencionou:
-
----
-
 # Bem-vindo ao **Fantastic**! 🌟
 
 **Fantastic** é um projeto inovador dedicado à comunidade de FiveM no Brasil. Nosso objetivo é oferecer uma solução robusta e eficiente para servidores que buscam melhorar a performance, segurança e a experiência de RolePlay. Utilizando a framework **Qbox** (composta por **Qbcore** + **Ox**), adaptamos e traduzimos a framework para que seja totalmente acessível para a comunidade brasileira.
@@ -34,8 +30,4 @@ O **Qbox** é um core avançado, frequentemente referido como uma framework, foc
 ## Sobre o Projeto Qbox (EN)
 
 **Qbox** is an advanced core with a load of bloat. Commonly known as a Framework. Aiming to deliver high-quality and industry-standard resources. Optimisation and code security are of the utmost importance to us. Focused on RolePlay-worthy resources that are usable on the FiveM platform. But also usable for other purposes besides RolePlay.
-
----
-
-Estamos muito empolgados em ter você conosco nesse projeto. Acompanhe as atualizações, faça parte da nossa comunidade e ajude a moldar o futuro do **Fantastic**! 🚀
 
