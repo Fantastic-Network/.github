@@ -18,9 +18,7 @@ Acreditamos que a colaboração é a chave para o sucesso deste projeto. Se voc�
   
 ## Conecte-se Conosco
 
-- **Discord:** [Junte-se ao nosso servidor Discord](link_do_discord)
-- **RedM:** Também estamos disponíveis na plataforma [RedM](link_para_redm).
-
+- **Discord:** [Junte-se ao nosso servidor Discord]([link_do_discord](https://discord.gg/YKervKhD))
 ---
 
 ## Sobre o Projeto Qbox (PT-BR)
